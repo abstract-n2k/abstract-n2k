@@ -1,4 +1,4 @@
 ```erl
 - Country         ::  🇷🇺
-- Discord         ::  n2k_#9665
+- Discord         ::  n2k_
 ```
